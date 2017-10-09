@@ -19,5 +19,6 @@ class application_config {
         $this->CI->load->view('header_view',$data);
 
        //hello
+       //hello2
     }
 }
